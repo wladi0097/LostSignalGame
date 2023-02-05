@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/drumloop1.mp3-0d3fb4f4024e3ba656e9b890c7646d01.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/drumloop1.mp3"
+dest_files=[ "res://.import/drumloop1.mp3-0d3fb4f4024e3ba656e9b890c7646d01.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
